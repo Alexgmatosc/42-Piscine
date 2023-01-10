@@ -1,5 +1,5 @@
 # 42-Piscine
-This is the code I wrote during 42 Piscine, a month-long coding camp. All exercises are written in C and Shell.
+This is the code I wrote during 42 Piscine in 42Madrid, a month-long coding camp. All exercises are written in C and Shell.
 
 ## About 42:
   42 is a future-proof computer science training to educate the next generation of software engineers. The 42 program takes a project-based approach to progress and is     designed to develop technical and people skills that match the expectations of the labor market. No courses. No teachers.
